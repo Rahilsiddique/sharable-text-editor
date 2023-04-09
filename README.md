@@ -1,1 +1,1 @@
-# sharable-text-editor
+# shareable-text-editor
